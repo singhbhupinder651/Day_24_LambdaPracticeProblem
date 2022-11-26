@@ -1,0 +1,15 @@
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\bin\Debug\net6.0\LambdaUserRegistration.exe
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\bin\Debug\net6.0\LambdaUserRegistration.deps.json
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\bin\Debug\net6.0\LambdaUserRegistration.runtimeconfig.json
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\bin\Debug\net6.0\LambdaUserRegistration.dll
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\bin\Debug\net6.0\LambdaUserRegistration.pdb
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\obj\Debug\net6.0\LambdaUserRegistration.csproj.AssemblyReference.cache
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\obj\Debug\net6.0\LambdaUserRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\obj\Debug\net6.0\LambdaUserRegistration.AssemblyInfoInputs.cache
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\obj\Debug\net6.0\LambdaUserRegistration.AssemblyInfo.cs
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\obj\Debug\net6.0\LambdaUserRegistration.csproj.CoreCompileInputs.cache
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\obj\Debug\net6.0\LambdaUserRegistration.dll
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\obj\Debug\net6.0\refint\LambdaUserRegistration.dll
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\obj\Debug\net6.0\LambdaUserRegistration.pdb
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\obj\Debug\net6.0\LambdaUserRegistration.genruntimeconfig.cache
+C:\Users\91897\Desktop\Git\LambdaUserRegistration\LambdaUserRegistration\obj\Debug\net6.0\ref\LambdaUserRegistration.dll
